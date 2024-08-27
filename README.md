@@ -16,3 +16,11 @@
     - Print questions: From you, To you, Feed Questions
     - Ask and answer questions. System support threads
     - Delete a question
+
+
+## how to compile (in terminal)
+  1. cd ask_fm-clone
+  2. mkdir build
+  3. cmake -G "Unix Makefiles" ..
+  4. make
+  5. ./main
